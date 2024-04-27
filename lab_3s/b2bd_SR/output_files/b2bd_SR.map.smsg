@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at b2bd_SR.sv(36): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_SR/b2bd_SR.sv Line: 36

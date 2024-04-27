@@ -1,0 +1,221 @@
+# Reading C:/programm/quartus/modelsim_ase/tcl/vsim/pref.tcl
+# do CR_1_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/programm/quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/b2bd_SR.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:22 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/b2bd_SR.sv 
+# -- Compiling module b2bd_SR
+# 
+# Top level modules:
+# 	b2bd_SR
+# End time: 02:24:23 on Apr 27,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/b2ss.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:23 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/b2ss.sv 
+# -- Compiling module b2ss
+# 
+# Top level modules:
+# 	b2ss
+# End time: 02:24:23 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/cnt_div.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:23 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/cnt_div.sv 
+# -- Compiling module cnt_div
+# 
+# Top level modules:
+# 	cnt_div
+# End time: 02:24:24 on Apr 27,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/d_rg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:24 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/d_rg.sv 
+# -- Compiling module d_rg
+# 
+# Top level modules:
+# 	d_rg
+# End time: 02:24:25 on Apr 27,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/dig_rg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:25 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/dig_rg.sv 
+# -- Compiling module dig_rg
+# 
+# Top level modules:
+# 	dig_rg
+# End time: 02:24:25 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/FSM.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:25 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/FSM.sv 
+# -- Compiling module FSM
+# 
+# Top level modules:
+# 	FSM
+# End time: 02:24:25 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/lab_3s.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:25 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/lab_3s.sv 
+# -- Compiling module lab_3s
+# 
+# Top level modules:
+# 	lab_3s
+# End time: 02:24:25 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/MUX.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:26 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/MUX.sv 
+# -- Compiling module MUX
+# 
+# Top level modules:
+# 	MUX
+# End time: 02:24:26 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/rst_reg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:26 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/rst_reg.sv 
+# -- Compiling module rst_reg
+# 
+# Top level modules:
+# 	rst_reg
+# End time: 02:24:26 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/ss_cntr.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:26 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/ss_cntr.sv 
+# -- Compiling module ss_cntr
+# 
+# Top level modules:
+# 	ss_cntr
+# End time: 02:24:26 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/ss_rg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:26 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/ss_rg.sv 
+# -- Compiling module ss_rg
+# 
+# Top level modules:
+# 	ss_rg
+# End time: 02:24:26 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/GEN.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:27 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/GEN.sv 
+# -- Compiling module GEN
+# 
+# Top level modules:
+# 	GEN
+# End time: 02:24:27 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/RaF.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:27 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/RaF.sv 
+# -- Compiling module RaF
+# 
+# Top level modules:
+# 	RaF
+# End time: 02:24:27 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/CR_1.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:27 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/CR_1.sv 
+# -- Compiling module CR_1
+# 
+# Top level modules:
+# 	CR_1
+# End time: 02:24:27 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/New/Desktop/CR_1/FIFO.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:27 on Apr 27,2024
+# vcom -reportprogress 300 -93 -work work C:/Users/New/Desktop/CR_1/FIFO.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FIFO
+# -- Compiling architecture SYN of fifo
+# End time: 02:24:27 on Apr 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/New/Desktop/CR_1 {C:/Users/New/Desktop/CR_1/tb_CR_1.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:24:27 on Apr 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/New/Desktop/CR_1" C:/Users/New/Desktop/CR_1/tb_CR_1.sv 
+# -- Compiling module tb_CR_1
+# 
+# Top level modules:
+# 	tb_CR_1
+# End time: 02:24:28 on Apr 27,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_CR_1
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb_CR_1 
+# Start time: 02:24:28 on Apr 27,2024
+# Loading sv_std.std
+# Loading work.tb_CR_1
+# Loading work.CR_1
+# Loading work.GEN
+# Loading work.RaF
+# Loading work.lab_3s
+# Loading work.b2bd_SR
+# Loading work.ss_cntr
+# Loading work.rst_reg
+# Loading work.cnt_div
+# Loading work.d_rg
+# Loading work.FSM
+# Loading work.MUX
+# Loading work.b2ss
+# Loading work.ss_rg
+# Loading work.dig_rg
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.fifo(syn)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.scfifo(behavior)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/New/Desktop/CR_1/tb_CR_1.sv(37)
+#    Time: 6320 ns  Iteration: 0  Instance: /tb_CR_1
+# Break in Module tb_CR_1 at C:/Users/New/Desktop/CR_1/tb_CR_1.sv line 37
+do wave.do
+do wave.do
+restart -f
+run -all
+# ** Note: $stop    : C:/Users/New/Desktop/CR_1/tb_CR_1.sv(37)
+#    Time: 6320 ns  Iteration: 0  Instance: /tb_CR_1
+# Break in Module tb_CR_1 at C:/Users/New/Desktop/CR_1/tb_CR_1.sv line 37
+# End time: 02:25:59 on Apr 27,2024, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 0

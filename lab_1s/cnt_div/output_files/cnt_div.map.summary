@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Nov 15 15:48:02 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2024 SJ Lite Edition
+Revision Name : cnt_div
+Top-level Entity Name : cnt_div
+Family : Cyclone IV E
+Total logic elements : 43
+    Total combinational functions : 43
+    Dedicated logic registers : 33
+Total registers : 33
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

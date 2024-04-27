@@ -1,0 +1,41 @@
+`timescale 1ns/1ns
+module tb_CR_1();
+	bit CLK, RST, ENgen, ENraf, ENwrk, 
+	bit [6:0] ss,
+	bit [4:1] dig,
+	bit [3:0] usedw
+
+CR_1 CR_1_inst (.*);
+
+always #10 CLK = ~ CLK;
+
+initial 
+begin 
+	RST = '1;
+	#15;
+	RST  = '0;
+	
+	ENraf = '1;
+	ENwrk = '1;
+	empty  = '1;
+	
+	#15;
+	empty  = '0;
+	
+	#5
+	q = 3;
+	#20
+	q = 8;
+	#20
+	q = 1;
+	#20
+	q = 30;
+	#20
+	q = 126;
+	#20
+	q = 18;
+	
+	#100;
+	$stop;
+end
+endmodule 

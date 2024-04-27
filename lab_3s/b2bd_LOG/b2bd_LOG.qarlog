@@ -1,0 +1,17 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG.qar
+Date:		Mon Dec 05 17:46:47 2024
+Quartus Prime		18.1.0 Build 625 09/12/2024 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd.sv
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG.qpf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG.qsf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG.sv
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/b2bd_LOG/b2bd_LOG_tb.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

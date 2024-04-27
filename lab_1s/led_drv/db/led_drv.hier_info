@@ -1,0 +1,26 @@
+|led_drv
+clk => i[0].CLK
+clk => i[1].CLK
+clk => i[2].CLK
+clk => i[3].CLK
+clk => i[4].CLK
+rst_n_i => i.OUTPUTSELECT
+rst_n_i => i.OUTPUTSELECT
+rst_n_i => i.OUTPUTSELECT
+rst_n_i => i.OUTPUTSELECT
+rst_n_i => i.OUTPUTSELECT
+ena => i[0].ENA
+ena => i[1].ENA
+ena => i[2].ENA
+ena => i[3].ENA
+ena => i[4].ENA
+dint[0] << mem.DATAOUT
+dint[1] << mem.DATAOUT1
+dint[2] << mem.DATAOUT2
+dint[3] << mem.DATAOUT3
+dint[4] << mem.DATAOUT4
+dint[5] << mem.DATAOUT5
+dint[6] << mem.DATAOUT6
+dint[7] << mem.DATAOUT7
+
+

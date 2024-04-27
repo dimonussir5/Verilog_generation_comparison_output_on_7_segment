@@ -1,0 +1,176 @@
+|b2bd_LOG
+bc[0] => bc_rg[0].DATAIN
+bc[1] => bc_rg[1].DATAIN
+bc[2] => bc_rg[2].DATAIN
+bc[3] => bc_rg[3].DATAIN
+bc[4] => bc_rg[4].DATAIN
+bc[5] => bc_rg[5].DATAIN
+bc[6] => bc_rg[6].DATAIN
+bc[7] => bc_rg[7].DATAIN
+clk => bdc[0]~reg0.CLK
+clk => bdc[1]~reg0.CLK
+clk => bdc[2]~reg0.CLK
+clk => bdc[3]~reg0.CLK
+clk => bdc[4]~reg0.CLK
+clk => bdc[5]~reg0.CLK
+clk => bdc[6]~reg0.CLK
+clk => bdc[7]~reg0.CLK
+clk => bdc[8]~reg0.CLK
+clk => bdc[9]~reg0.CLK
+clk => bdc[10]~reg0.CLK
+clk => bdc[11]~reg0.CLK
+clk => bc_rg[0].CLK
+clk => bc_rg[1].CLK
+clk => bc_rg[2].CLK
+clk => bc_rg[3].CLK
+clk => bc_rg[4].CLK
+clk => bc_rg[5].CLK
+clk => bc_rg[6].CLK
+clk => bc_rg[7].CLK
+bdc[0] <= bdc[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[1] <= bdc[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[2] <= bdc[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[3] <= bdc[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[4] <= bdc[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[5] <= bdc[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[6] <= bdc[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[7] <= bdc[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[8] <= bdc[8]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[9] <= bdc[9]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[10] <= bdc[10]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+bdc[11] <= bdc[11]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpa
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpb
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpc
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpdh
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpdl
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpeh
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|b2bd_LOG|b2bd:tmpel
+bc[0] => LessThan0.IN8
+bc[0] => Add0.IN8
+bc[0] => bd.DATAB
+bc[1] => LessThan0.IN7
+bc[1] => Add0.IN7
+bc[1] => bd.DATAB
+bc[2] => LessThan0.IN6
+bc[2] => Add0.IN6
+bc[2] => bd.DATAB
+bc[3] => LessThan0.IN5
+bc[3] => Add0.IN5
+bc[3] => bd.DATAB
+bd[0] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[1] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[2] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+bd[3] <= bd.DB_MAX_OUTPUT_PORT_TYPE
+
+

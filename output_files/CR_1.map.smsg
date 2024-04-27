@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at cnt_div.sv(17): always construct contains both blocking and non-blocking assignments File: C:/Users/New/Desktop/CR_1/cnt_div.sv Line: 17
+Warning (10268): Verilog HDL information at d_rg.sv(13): always construct contains both blocking and non-blocking assignments File: C:/Users/New/Desktop/CR_1/d_rg.sv Line: 13
+Warning (10268): Verilog HDL information at FSM.sv(16): always construct contains both blocking and non-blocking assignments File: C:/Users/New/Desktop/CR_1/FSM.sv Line: 16

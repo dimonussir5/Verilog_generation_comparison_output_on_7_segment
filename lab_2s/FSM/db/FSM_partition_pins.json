@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "digi[0]",
+					"strict" : false
+				},
+				{
+					"name" : "digi[1]",
+					"strict" : false
+				},
+				{
+					"name" : "digi[2]",
+					"strict" : false
+				},
+				{
+					"name" : "digi[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_ni",
+					"strict" : false
+				},
+				{
+					"name" : "ENA",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

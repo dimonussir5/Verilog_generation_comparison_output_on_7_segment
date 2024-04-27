@@ -1,0 +1,41 @@
+`timescale 1ns/1ns
+module tb_GEN();
+	bit 		  CLK;
+	bit [8:1] LFSR_out_G;
+	bit [8:1] LFSR_out_G1;
+	bit [8:1] CNT_int = 8'd1;
+	bit RST;
+	bit ENA;
+	bit LFSR_CYCLE;
+LFSR LFSR_inst (
+	.LFSR_out(LFSR_out_G),
+	.*
+);
+
+always #10 CLK = ~ CLK;
+initial 
+begin 
+	RST = '1;
+	//CNT_int = '0;
+	#15;
+	RST = '0;
+	#25;
+	ENA = '1;
+	
+	forever begin 
+		@(negedge CLK);
+		if (CNT_int == '0) begin
+			LFSR_out_G1 = LFSR_out_G; //fixing the first data to check Galois 
+			end
+		else
+			if (LFSR_out_G1 == LFSR_out_G) //to check Galois 
+			begin
+				LFSR_CYCLE = '1;
+				break;
+			end
+		CNT_int++;
+	end 
+	#100;
+	$stop;
+end
+endmodule 

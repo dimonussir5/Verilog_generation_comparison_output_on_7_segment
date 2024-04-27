@@ -1,0 +1,276 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/MUX
+vb2ss
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1670333901
+!i10b 1
+!s100 6zVSaMGUm<hHiNPRo[<L00
+Ih<X`P>BE=zWma7eh9h83R2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 b2ss_sv_unit
+S1
+Z3 dC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s
+w1669289033
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/b2ss.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/b2ss.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1670333901.000000
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/b2ss.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/b2ss.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vcnt_div
+R0
+Z8 !s110 1670333902
+!i10b 1
+!s100 iPK:mH?;0_S7VEiF=IG>b0
+IIPWnOjA@aQ>AFcIU0[`Fa0
+R2
+!s105 cnt_div_sv_unit
+S1
+R3
+w1668600857
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1670333902.000000
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv|
+!i113 1
+R6
+R7
+vd_rg
+R0
+R1
+!i10b 1
+!s100 fR6<[6ZH7iEc^>U2X9?lg2
+I;7ACMDI@NEHLMNf[:P1Y:3
+R2
+!s105 d_rg_sv_unit
+S1
+R3
+w1669289545
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/d_rg.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/d_rg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/d_rg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/d_rg.sv|
+!i113 1
+R6
+R7
+vdig_rg
+R0
+R8
+!i10b 1
+!s100 [FJzeM5lI>M]@mceB::9L2
+IlAD8ZG8?gH;N^JDf2OQi_2
+R2
+!s105 dig_rg_sv_unit
+S1
+R3
+w1669112968
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/dig_rg.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/dig_rg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/dig_rg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/dig_rg.sv|
+!i113 1
+R6
+R7
+vFSM
+R0
+R8
+!i10b 1
+!s100 JU=I8PWgO70`djSaEQWUj1
+I07Gc1H>3d]ODd>GQL4K5a0
+R2
+!s105 FSM_sv_unit
+S1
+R3
+w1669289936
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/FSM/FSM.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/FSM/FSM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/FSM/FSM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/FSM/FSM.sv|
+!i113 1
+R6
+R7
+n@f@s@m
+vlab_2s
+R0
+R8
+!i10b 1
+!s100 ?V0^P`6B4`z5IaX5R16Xl2
+I^TbQhhHP3iB0C^aE9A`1a0
+R2
+!s105 lab_2s_sv_unit
+S1
+R3
+w1669290814
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s.sv|
+!i113 1
+R6
+R7
+vlab_2s_tb
+R0
+R8
+!i10b 1
+!s100 ;JZ:L7Y;TIg]IN0F1za6R3
+IRaVa8ea>Rb<fdifcLzgZz1
+R2
+!s105 lab_2s_tb_sv_unit
+S1
+R3
+w1669118642
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s_tb.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/lab_2s_tb.sv|
+!i113 1
+R6
+R7
+vMUX
+R0
+R8
+!i10b 1
+!s100 LdhLgnnOUGi?CfkJ3f4hh3
+Iz]G_BlZBl77U^iWVKG<QQ1
+R2
+!s105 MUX_sv_unit
+S1
+R3
+w1669110075
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/MUX/MUX.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/MUX/MUX.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/MUX/MUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/MUX/MUX.sv|
+!i113 1
+R6
+R7
+n@m@u@x
+vrst_reg
+R0
+R8
+!i10b 1
+!s100 33?3o22c:CS5`SEZoEmk80
+In2o7imI9Vao@l`5T[QDD80
+R2
+!s105 rst_reg_sv_unit
+S1
+R3
+w1668599750
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/rst_reg.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/rst_reg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/rst_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/rst_reg.sv|
+!i113 1
+R6
+R7
+vss_cntr
+R0
+R8
+!i10b 1
+!s100 140:TzUPF_DV=3V?]W7SX1
+IcSi^3gH4mz9@LfRUnPTX:0
+R2
+!s105 ss_cntr_sv_unit
+S1
+R3
+w1669118138
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_cntr.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_cntr.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_cntr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_cntr.sv|
+!i113 1
+R6
+R7
+vss_rg
+R0
+R8
+!i10b 1
+!s100 kQCocKhhHGgc>EUa6Xg:V0
+Io`1c=4c?eRXUe3T3KbSPf1
+R2
+!s105 ss_rg_sv_unit
+S1
+R3
+w1669289132
+8C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_rg.sv
+FC:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_rg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_rg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA_lite/18.1/Verilog_SV/lab_2s/ss_rg.sv|
+!i113 1
+R6
+R7

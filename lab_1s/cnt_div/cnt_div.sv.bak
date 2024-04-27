@@ -1,0 +1,23 @@
+module cnt_div 
+# (parameter cm = 5)
+(input clk, srst,
+ output reg cout);
+	reg [31:0] cnt;
+
+initial begin 
+cnt = 0;
+cout = 0;
+end
+always @(posedge clk )
+if (!srst) cnt <= 32'h0;
+else 
+	if (cnt == cm - 1) cnt <= 32'h0;
+	else cnt <= cnt + 1;
+		
+always @(posedge clk )
+if (!srst) cout <= 1'b1;
+else 
+	if (cnt == cm-1) cout <= 1'b1;
+	else cout <= 1'b0;
+			
+endmodule 

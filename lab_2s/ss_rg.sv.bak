@@ -1,0 +1,15 @@
+module ss_rg 
+(input clk, rst_ni,
+ input [6:0] ssi,
+ output reg [6:0] ss);
+
+initial dout = 0;
+
+always @(posedge clk )
+if (!rst_n_i) 
+	dout <= 0;
+else 
+	dout <= dint;
+
+			
+endmodule 

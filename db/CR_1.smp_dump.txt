@@ -1,0 +1,7 @@
+
+State Machine - |CR_1|lab_3s:lab_3s_inst|ss_cntr:ss_cntr|FSM:fsm|state
+Name state.s3 state.s2 state.s1 state.s0 
+state.s0 0 0 0 0 
+state.s1 0 0 1 1 
+state.s2 0 1 0 1 
+state.s3 1 0 0 1 

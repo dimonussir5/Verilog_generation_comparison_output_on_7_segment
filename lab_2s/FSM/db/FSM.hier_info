@@ -1,0 +1,15 @@
+|FSM
+clk => state~1.DATAIN
+rst_ni => state~3.DATAIN
+ENA => state.OUTPUTSELECT
+ENA => state.OUTPUTSELECT
+ENA => state.OUTPUTSELECT
+ENA => state.OUTPUTSELECT
+sel[0] << sel.DB_MAX_OUTPUT_PORT_TYPE
+sel[1] << sel.DB_MAX_OUTPUT_PORT_TYPE
+digi[0] << digi[0].DB_MAX_OUTPUT_PORT_TYPE
+digi[1] << digi[1].DB_MAX_OUTPUT_PORT_TYPE
+digi[2] << digi[2].DB_MAX_OUTPUT_PORT_TYPE
+digi[3] << digi[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

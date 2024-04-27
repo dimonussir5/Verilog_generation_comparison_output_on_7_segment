@@ -1,0 +1,25 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/lab_3s.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/lab_3s.qar
+Date:		Mon Dec 05 18:14:35 2024
+Quartus Prime		18.1.0 Build 625 09/12/2024 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/lab_3s.qpf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/lab_3s.qsf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_3s/lab_3s.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+c:/intelfpga_lite/18.1/verilog_sv/lab_1s/cnt_div.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_1s/rst_reg.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/b2ss.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/d_rg.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/dig_rg.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/fsm.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/mux.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/ss_cntr.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_2s/ss_rg.sv
+c:/intelfpga_lite/18.1/verilog_sv/lab_3s/b2bd_sr/b2bd_sr.sv
+	======= Total: 14 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

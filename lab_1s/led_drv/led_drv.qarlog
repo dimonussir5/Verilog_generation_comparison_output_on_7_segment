@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv.qar
+Date:		Wed Nov 16 14:43:35 2024
+Quartus Prime		18.1.0 Build 625 09/12/2024 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/ROM.txt
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/exp.txt
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv.qpf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv.qsf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv.sv
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/led_drv/led_drv_tb.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

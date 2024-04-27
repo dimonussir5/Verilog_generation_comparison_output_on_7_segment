@@ -1,0 +1,431 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/New/Desktop/CR_1/simulation/modelsim
+vb2bd_SR
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1714173863
+!i10b 1
+!s100 MNXGBJ@GQ94Tl@mbEA0eP2
+IMEh8zF5F0VB2TllIZh4Vo1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 b2bd_SR_sv_unit
+S1
+R0
+Z4 w1714173046
+8C:/Users/New/Desktop/CR_1/b2bd_SR.sv
+FC:/Users/New/Desktop/CR_1/b2bd_SR.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1714173862.000000
+!s107 C:/Users/New/Desktop/CR_1/b2bd_SR.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/b2bd_SR.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/New/Desktop/CR_1
+Z8 tCvgOpt 0
+nb2bd_@s@r
+vb2ss
+R1
+R2
+!i10b 1
+!s100 6zVSaMGUm<hHiNPRo[<L00
+Ij910VngzL8L9TG4iJEI9X3
+R3
+!s105 b2ss_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/b2ss.sv
+FC:/Users/New/Desktop/CR_1/b2ss.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z9 !s108 1714173863.000000
+!s107 C:/Users/New/Desktop/CR_1/b2ss.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/b2ss.sv|
+!i113 1
+R6
+R7
+R8
+vcnt_div
+R1
+!s110 1714173864
+!i10b 1
+!s100 iPK:mH?;0_S7VEiF=IG>b0
+I7F?el0FmN1Q^?RjeJo?k23
+R3
+!s105 cnt_div_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/cnt_div.sv
+FC:/Users/New/Desktop/CR_1/cnt_div.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/New/Desktop/CR_1/cnt_div.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/cnt_div.sv|
+!i113 1
+R6
+R7
+R8
+vCR_1
+R1
+Z10 !s110 1714173867
+!i10b 1
+!s100 M?o7@0X6SCegkY?_[F`Bo3
+I?99;jO36FT?VCKZY^R8zh1
+R3
+!s105 CR_1_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/CR_1.sv
+FC:/Users/New/Desktop/CR_1/CR_1.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z11 !s108 1714173867.000000
+!s107 C:/Users/New/Desktop/CR_1/CR_1.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/CR_1.sv|
+!i113 1
+R6
+R7
+R8
+n@c@r_1
+vd_rg
+R1
+Z12 !s110 1714173865
+!i10b 1
+!s100 fR6<[6ZH7iEc^>U2X9?lg2
+I8gcX;H]8WmR>SUPP0hkPS3
+R3
+!s105 d_rg_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/d_rg.sv
+FC:/Users/New/Desktop/CR_1/d_rg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1714173864.000000
+!s107 C:/Users/New/Desktop/CR_1/d_rg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/d_rg.sv|
+!i113 1
+R6
+R7
+R8
+vdig_rg
+R1
+R12
+!i10b 1
+!s100 [FJzeM5lI>M]@mceB::9L2
+I<<Y9B<]Y]XkE_Bd2o[K:`1
+R3
+!s105 dig_rg_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/dig_rg.sv
+FC:/Users/New/Desktop/CR_1/dig_rg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z13 !s108 1714173865.000000
+!s107 C:/Users/New/Desktop/CR_1/dig_rg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/dig_rg.sv|
+!i113 1
+R6
+R7
+R8
+Efifo
+R4
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z16 8C:/Users/New/Desktop/CR_1/FIFO.vhd
+Z17 FC:/Users/New/Desktop/CR_1/FIFO.vhd
+l0
+L42
+VGiN5Bg:N@81clU1hQTU@^1
+!s100 [0U`8e:lKY41jj37>63VZ1
+Z18 OV;C;10.5b;63
+31
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/New/Desktop/CR_1/FIFO.vhd|
+Z20 !s107 C:/Users/New/Desktop/CR_1/FIFO.vhd|
+!i113 1
+Z21 o-93 -work work
+Z22 tExplicit 1 CvgOpt 0
+Asyn
+R14
+R15
+DEx4 work 4 fifo 0 22 GiN5Bg:N@81clU1hQTU@^1
+l91
+L57
+V1Vi0D^K<Q;]jkOAlJA9SB2
+!s100 ?iU]PGh<6;Y5=;^I9[?k11
+R18
+31
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R21
+R22
+vFSM
+R1
+R12
+!i10b 1
+!s100 JU=I8PWgO70`djSaEQWUj1
+IM0JFUk^kd[bK:R]hbBoaM3
+R3
+!s105 FSM_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/FSM.sv
+FC:/Users/New/Desktop/CR_1/FSM.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/New/Desktop/CR_1/FSM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/FSM.sv|
+!i113 1
+R6
+R7
+R8
+n@f@s@m
+vGEN
+R1
+R10
+!i10b 1
+!s100 oQohUZB2K^WOaQ8ajQ_P@0
+I0HJNeZ3l4G5]^kgHk;Ge;2
+R3
+!s105 GEN_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/GEN.sv
+FC:/Users/New/Desktop/CR_1/GEN.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/New/Desktop/CR_1/GEN.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/GEN.sv|
+!i113 1
+R6
+R7
+R8
+n@g@e@n
+vlab_3s
+R1
+R12
+!i10b 1
+!s100 eO;7CAT;D<N<m_RJ_M^4d0
+I4Pbg[;I24G<N9nYJ6>gYO0
+R3
+!s105 lab_3s_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/lab_3s.sv
+FC:/Users/New/Desktop/CR_1/lab_3s.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/New/Desktop/CR_1/lab_3s.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/lab_3s.sv|
+!i113 1
+R6
+R7
+R8
+vMUX
+R1
+Z23 !s110 1714173866
+!i10b 1
+!s100 LdhLgnnOUGi?CfkJ3f4hh3
+IPbaB8lmem^RG`hRzaWXMK0
+R3
+!s105 MUX_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/MUX.sv
+FC:/Users/New/Desktop/CR_1/MUX.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z24 !s108 1714173866.000000
+!s107 C:/Users/New/Desktop/CR_1/MUX.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/MUX.sv|
+!i113 1
+R6
+R7
+R8
+n@m@u@x
+vRaF
+R1
+R10
+!i10b 1
+!s100 ]4JFjzc;eYDBe]D[lB]C52
+IZKV5iE=H^Fa[@;eolYlkh3
+R3
+!s105 RaF_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/RaF.sv
+FC:/Users/New/Desktop/CR_1/RaF.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/New/Desktop/CR_1/RaF.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/RaF.sv|
+!i113 1
+R6
+R7
+R8
+n@ra@f
+vrst_reg
+R1
+R23
+!i10b 1
+!s100 33?3o22c:CS5`SEZoEmk80
+IDa0kZmGFagWcR76eeX_B`1
+R3
+!s105 rst_reg_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/rst_reg.sv
+FC:/Users/New/Desktop/CR_1/rst_reg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/New/Desktop/CR_1/rst_reg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/rst_reg.sv|
+!i113 1
+R6
+R7
+R8
+vss_cntr
+R1
+R23
+!i10b 1
+!s100 140:TzUPF_DV=3V?]W7SX1
+I]SSgV^5;]i]@0W:zES>h51
+R3
+!s105 ss_cntr_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/ss_cntr.sv
+FC:/Users/New/Desktop/CR_1/ss_cntr.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/New/Desktop/CR_1/ss_cntr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/ss_cntr.sv|
+!i113 1
+R6
+R7
+R8
+vss_rg
+R1
+R23
+!i10b 1
+!s100 kQCocKhhHGgc>EUa6Xg:V0
+IA8Y8JObXUN`TnO4^_g_4e0
+R3
+!s105 ss_rg_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/ss_rg.sv
+FC:/Users/New/Desktop/CR_1/ss_rg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/New/Desktop/CR_1/ss_rg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/ss_rg.sv|
+!i113 1
+R6
+R7
+R8
+vtb_CR_1
+R1
+!s110 1714173868
+!i10b 1
+!s100 ElGdRkjkBMR:FF>nN3WHo1
+ISMaYE[1TlNJZ8lc_64=i20
+R3
+!s105 tb_CR_1_sv_unit
+S1
+R0
+R4
+8C:/Users/New/Desktop/CR_1/tb_CR_1.sv
+FC:/Users/New/Desktop/CR_1/tb_CR_1.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/New/Desktop/CR_1/tb_CR_1.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/New/Desktop/CR_1|C:/Users/New/Desktop/CR_1/tb_CR_1.sv|
+!i113 1
+R6
+R7
+R8
+ntb_@c@r_1

@@ -1,0 +1,22 @@
+module lab_1s (
+	input clk, rst_n,
+	input [3:0] A, B, C, D,
+	output reg [6:0] ss
+	output ref [3:0] dig);
+	
+wire [7:0] dint;
+
+wire rst_n_i, ENA;
+
+rst_reg reset_rg(clk, rst_n, rst_n_i);
+
+cnt_div #(.cm(4)) //12500000
+  counter_div(clk, rst_n_i, ENA);
+  
+d_rg data_reg() 
+
+led_drv led_driver(clk, rst_n_i, ena, dint);
+
+led_rg out_reg (clk, rst_n_i, dint, dout);
+
+endmodule 

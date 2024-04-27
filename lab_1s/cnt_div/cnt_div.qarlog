@@ -1,0 +1,16 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.qar
+Date:		Tue Nov 15 15:48:52 2024
+Quartus Prime		18.1.0 Build 625 09/12/2024 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.qpf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.qsf
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv
+C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div_tb.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

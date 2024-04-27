@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at cnt_div.sv(17): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/18.1/Verilog_SV/lab_1s/cnt_div/cnt_div.sv Line: 17

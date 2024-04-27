@@ -1,0 +1,31 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+C:/Intel_trn/Kursovaya {C:/Intel_trn/Kursovaya/GEN.sv}
+vlog -sv -work work +incdir+C:/Intel_trn/Kursovaya {C:/Intel_trn/Kursovaya/RaF.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_3s {c:/intelfpga_lite/18.1/verilog_sv/lab_3s/lab_3s.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_3s {c:/intelfpga_lite/18.1/verilog_sv/lab_3s/b2bd_sr.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/ss_cntr.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_1s {c:/intelfpga_lite/18.1/verilog_sv/lab_1s/rst_reg.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_1s {c:/intelfpga_lite/18.1/verilog_sv/lab_1s/cnt_div.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/d_rg.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/fsm.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/mux.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/b2ss.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/ss_rg.sv}
+vlog -sv -work work +incdir+c:/intelfpga_lite/18.1/verilog_sv/lab_2s {c:/intelfpga_lite/18.1/verilog_sv/lab_2s/dig_rg.sv}
+vlog -sv -work work +incdir+C:/Intel_trn/Kursovaya {C:/Intel_trn/Kursovaya/CR_1.sv}
+vcom -93 -work work {C:/Intel_trn/Kursovaya/FIFO.vhd}
+
+vlog -sv -work work +incdir+C:/Intel_trn/Kursovaya {C:/Intel_trn/Kursovaya/tb_CR_1.sv}
+
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_CR_1
+
+add wave *
+view structure
+view signals
+run -all

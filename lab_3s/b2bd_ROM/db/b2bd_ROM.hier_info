@@ -1,0 +1,31 @@
+|b2bd_ROM
+bc[0] => bc_rg[0].DATAIN
+bc[1] => bc_rg[1].DATAIN
+bc[2] => bc_rg[2].DATAIN
+bc[3] => bc_rg[3].DATAIN
+bc[4] => bc_rg[4].DATAIN
+bc[5] => bc_rg[5].DATAIN
+bc[6] => bc_rg[6].DATAIN
+bc[7] => bc_rg[7].DATAIN
+clk => bc_rg[0].CLK
+clk => bc_rg[1].CLK
+clk => bc_rg[2].CLK
+clk => bc_rg[3].CLK
+clk => bc_rg[4].CLK
+clk => bc_rg[5].CLK
+clk => bc_rg[6].CLK
+clk => bc_rg[7].CLK
+bdc[0] <= mem.DATAOUT
+bdc[1] <= mem.DATAOUT1
+bdc[2] <= mem.DATAOUT2
+bdc[3] <= mem.DATAOUT3
+bdc[4] <= mem.DATAOUT4
+bdc[5] <= mem.DATAOUT5
+bdc[6] <= mem.DATAOUT6
+bdc[7] <= mem.DATAOUT7
+bdc[8] <= mem.DATAOUT8
+bdc[9] <= mem.DATAOUT9
+bdc[10] <= mem.DATAOUT10
+bdc[11] <= mem.DATAOUT11
+
+
